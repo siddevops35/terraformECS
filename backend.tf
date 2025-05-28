@@ -6,7 +6,3 @@ terraform {
     encrypt = true                             # Optional but recommended
   }
 }
-
-provider "aws" {
-  region = "us-east-1"
-}
