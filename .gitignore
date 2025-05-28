@@ -3,5 +3,4 @@
 *.tfstate.*
 .crash
 .terraform/
-.terraform.lock.hcl
 
